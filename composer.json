@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/geetest",
-    "description": "description...",
+    "name": "james.xue/login-geetest",
+    "description": "laravel-admin 登录添加geetest验证码",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/geetest",
+    "keywords": ["laravel-admin", "extension", "login", "captcha"],
+    "homepage": "https://github.com/xiaoxuan6/geetest",
     "license": "MIT",
     "authors": [
         {
